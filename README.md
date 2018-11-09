@@ -19,23 +19,16 @@
 - 观察员-Freshniu-北京大区-https://github.com/Freshniu/IA002
 - 观察员-jingzhou9908-长三角大区-https://github.com/jingzhou9908/IA002
 
-### 项目预期计划
-- 181104BpDemo1
-- 181106BpDemo2
-- 181107BpDemo3
-- 181110BpFinal（keynote、信息报告、讲演稿等）
+### 项目进度
 
-### 项目实际进度(待更新)
-- [181028招募开启]()
-- [181030组队成功]()
-- [181031阳老线上点评]()
-- [181101线上第一次会议]()
-- [181102线上第二次会议]()
-- [181105线上第三次会议]()
-- [181107协作仓库搭建]()
+- [问题追踪]()
 
-### 项目日志
-[项目日志]()
+- [日志更新](https://www.notion.so/bpcoffee/64a324bec5394c128df50e0495ae630d?v=3343fb6b4dd94cb5816296f2e35caae2)
+
+- [沉淀资料](https://www.notion.so/bpcoffee/b2af9d95d6084563b6220b4ccb99ec59)
+- [版本更新]()
+    - [181109MollyDemo1](https://www.notion.so/bpcoffee/BP-1-Molly-65d788602f8142f39222a3f5217b3057)
 
 ## Changelog
 - 181107 Leon轩 创建 
+- 181109 Leon轩 修改
