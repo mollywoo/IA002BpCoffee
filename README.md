@@ -4,7 +4,7 @@
 
 ### 项目简介：
 
-关键词：咖啡；新零售；XX；XX；XX
+关键词：咖啡；新零售；消费升级；（生活方式？）
 
 摘要：我们这个时代一个新品牌蹿红的速度越来越短，最近不管是地铁还是电梯口，张震和汤唯无处不在的广告语“这一杯，谁不爱”占满大街小巷（Ps：汤唯真女神，美的不食人间烟火，只喝咖啡。）
 
@@ -21,12 +21,12 @@
 
 ### 项目进度
 
-- [问题追踪]()
+- [任务&讨论](https://www.notion.so/bpcoffee/255167b47fd44cc1a438ae1148df7318?v=37e95e01152140f48e965f2222f06f86)
 
-- [日志更新](https://www.notion.so/bpcoffee/64a324bec5394c128df50e0495ae630d?v=3343fb6b4dd94cb5816296f2e35caae2)
+- [日程&会议](https://www.notion.so/bpcoffee/64a324bec5394c128df50e0495ae630d?v=3343fb6b4dd94cb5816296f2e35caae2)
 
-- [沉淀资料](https://www.notion.so/bpcoffee/b2af9d95d6084563b6220b4ccb99ec59)
-- [版本更新]()
+- [资料收集](https://www.notion.so/bpcoffee/b2af9d95d6084563b6220b4ccb99ec59)
+- [版本更新](https://github.com/lvxuan149/IA002BpCoffee)
     - [181109MollyDemo1](https://www.notion.so/bpcoffee/BP-1-Molly-65d788602f8142f39222a3f5217b3057)
 
 ## Changelog
