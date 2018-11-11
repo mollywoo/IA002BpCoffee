@@ -38,6 +38,8 @@
 
 ![中美咖啡产业结构](https://upload-images.jianshu.io/upload_images/125435-d5f8e7de9140bd9b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+新零售模式：用时间换空间，通过外卖服务扩大服务半径
+
 
 ## 咖啡的产业价值链
 咖啡行业产业链可以划分为上游咖啡种植、中游深加工和下游流通三个环节。
@@ -46,8 +48,78 @@
 
 ![咖啡产业链](https://upload-images.jianshu.io/upload_images/125435-92ff9b5abc5bc931.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+咖啡产业链的创新更可能在距离消费者最近的地方
+![咖啡产业链创新](https://upload-images.jianshu.io/upload_images/125435-b90d492e4b140cd9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-### 影响咖啡消费的几大因素
+
+
+## 瑞幸咖啡分析
+
+瑞幸咖啡从今年1月份开始试运营至今，已在北京、上海、广州、西安、青岛等全国21座城市布局门店1400多家（截止2018年10月），发展成国内第二大连锁咖啡品牌。
+
+1. 榜单排名
+
+> 根据蝉大师榜单，luckin coffee 从2017年12月推出以来，在半年时间（2018年5月）冲到了「美食佳饮」榜单第一名。星巴克总体排名一直比较稳定在10名左右。但是根据艾瑞指数，星巴克中国在月度独立设备数是瑞幸咖啡的10倍。
+
+蝉大师：2018年11月12日数据-luckin coffee
+
+![蝉大师-luckin coffee-排行榜](https://upload-images.jianshu.io/upload_images/125435-c3a6ceb6009332eb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+蝉大师：2018年11月12日数据-星巴克中国
+
+![蝉大师-星巴克中国-排行榜](https://upload-images.jianshu.io/upload_images/125435-ad595539f361ca29.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+艾瑞指数：月度独立设备数
+
+![瑞幸 vs 星巴克-月度独立设备数](https://upload-images.jianshu.io/upload_images/125435-9886267a52f47c1e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+2. 消费人群对比
+
+**瑞幸咖啡用户男性占比更高，星巴克中女性更多**
+![瑞幸 vs 星巴克-性别](https://upload-images.jianshu.io/upload_images/125435-28bcc8af6ea15b7c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+**瑞幸咖啡和星巴克的人群年龄分布基本相当，但30岁以下的人群中，偏爱星巴克的更多**
+
+![瑞幸 vs 星巴克-年龄](https://upload-images.jianshu.io/upload_images/125435-53ae885b8594ea61.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+3. 地区分布
+
+![瑞幸 vs 星巴克-地区分布](https://upload-images.jianshu.io/upload_images/125435-c99888f93669223b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+4. 新零售模式：用时间换空间，通过外卖服务扩大服务半径
+
+传统品牌的线下咖啡店主要模式为堂食和自提，因此每家门店的服务半径可视为步行舒适的约500米。而采用新 零售模式的瑞幸咖啡，除了可以到店消费以外，门店还提供外送服务，因此每家门店的服务半径可达2km。以此 计算，瑞幸在其入驻的13座城市中，服务可覆盖面积均已超过星巴克。
+
+![瑞幸vs星巴克-店铺数量和覆盖面积](https://upload-images.jianshu.io/upload_images/125435-fae669dc60681914.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+> 开店数量一方面的影响，覆盖面积也就是服务人数才是决胜关键？
+
+5. 新零售咖啡：线下店选址策略与传统品牌不同
+
+在选址策略上，新零售咖啡与传统品牌也有较大区别。以上海为例，星巴克的门店布局较为分散，选址多在核心 道路、交通枢纽等位置;而从瑞幸的门店布局可以看到，其在上海侧重中心城区的服务覆盖，并且黄埔区、静安 区等核心商业区域的门店覆盖密度更大，为主要的办公区域以及商圈带来便利。
+
+根据瑞幸咖啡“无限场景(AnyMoment)”战略，除了设置可以堂食、自提的旗舰店、悠享店、快取店三类门 店以外，还设置了专门外送的外卖厨房店，以求覆盖面积更广，还依据区域特点组合不同类型的门店，满足多种场景下的咖啡消费需求。
+
+![瑞幸vs星巴克-选址策略](https://upload-images.jianshu.io/upload_images/125435-e736035ed47deb3d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+## 瑞幸咖啡前景如何
+
+> 瑞幸咖啡能否撼动星巴克的江山？
+
+### 店铺数量增加一方面带来流量的增长，但是随之也会带来运营和管理效率的问题
+
+有调查数据显示，在2017年中国连锁咖啡饮料品牌市场份额排行榜中，星巴克的市场份额达到51%，占据整个市场的半壁江山，上岛、Costa、麦咖啡紧随其后。瑞幸线下店铺数量（1400+），仅次于星巴克（3300+）
+
+### 低价带来的流量，在补贴结束后是否有持续性？
+瑞幸咖啡单杯均价在市场份额排名前5的咖啡品牌里是最低的。
+
+与快速开店相对应的是瑞幸的花式营销。凭借买一赠一的强力裂变拉新、首单免费、轻食半价、大打广告等手段，瑞幸对外宣布，7个月服务客户350多万，销售杯量1800多万，比5月公布的数据翻了一倍多。
+
+## 咖啡消费反映的心理（学术分析，为什么）
 
 影响咖啡消费的因素可分为五大类。
 
@@ -59,27 +131,9 @@
 4. 消费场景
 5. 人口学特征
 
-### 瑞幸咖啡做对了什么
+### 线上消费咖啡和线下消费咖啡的人群差异
 
-时间：2017年成立，2018年10月开店1000+家（luckin app产品分析）
-
-空间：开店数量、覆盖面积
-
-变量：咖啡行业的哪些变化会影响瑞幸的发展；瑞幸对咖啡行业带来的影响
-
-实践策略：产品分析策略；分析过程中可以与星巴克、雀巢进行对比
-
-线上咖啡消费反映的心理（学术分析，为什么）
-
-咖啡的上位词和下位词是什么？
-
-线上消费咖啡和线下消费咖啡的人群差异
-
-## 瑞幸咖啡前景如何
-
-瑞幸咖啡现阶段的营销策略是否具有可持续性
-
-- 与众多竞争对手相比瑞幸的优势和劣势
+> 咖啡的上位词和下位词是什么？
 
 ## 参考资料
 1. 咖啡因消费相关的因素
@@ -89,8 +143,11 @@ Factors associated with caffeine consumption.
 2. https://www.qianzhan.com/analyst/detail/220/180907-ebd3bd60.html
 3. https://www.jianshu.com/p/a1db8ffc6afb
 4. https://36kr.com/p/5144759.html
+5. 第一财经数据《2018 中国咖啡行业洞察：市场发展趋势和线上品类研究》
+
 
 ## Changelog
 
 2018-11-09 思路整理
 2018-11-11 补充行业数据
+2018-11-12 补充产品数据
